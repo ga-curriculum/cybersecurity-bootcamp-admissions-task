@@ -27,8 +27,8 @@ This module contains the admissions assessment for the Cybersecurity Bootcamp. S
 
 ### Course landing pages
 
-- [CSB - Cybersecurity Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/cybersecurity-bootcamp-admissions-task/canvas-landing-pages/csb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/cybersecurity-bootcamp-admissions-task/canvas-landing-pages/fallback.html)
+- [CSB - Cybersecurity Bootcamp](https://ga-curriculum.github.io/cybersecurity-bootcamp-admissions-task/canvas-landing-pages/csb.html)
+- [Fallback](https://ga-curriculum.github.io/cybersecurity-bootcamp-admissions-task/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -40,4 +40,4 @@ This module contains the admissions assessment for the Cybersecurity Bootcamp. S
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
